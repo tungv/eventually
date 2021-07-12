@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "kefir": "^3.8.3",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "run-lua": "^1.0.1"
   }
 }
